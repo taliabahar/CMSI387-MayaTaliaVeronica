@@ -25,8 +25,3 @@ int main(int argc, char *argv[])
     printf("\n\n Name: %s\n Age: %s\n Class Year: %s\n Major: %s\n Minor: %s\n Fun Fact: %s\n", name, age, classYear, major, minor, funFact);
     exit(0);
 }
-
-// prompt the user demographic information including name, age, class year, and any three
-// other data times you wish. Structure the program as a call-and-response program such that each data item
-//is a single question with a single answer.
-//When all data has been obtained, display the data on the console. Each data item must be on a separate line,
