@@ -1,3 +1,12 @@
+/** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ *  File name     :  demographics.c
+ *  Purpose       :  Provides a simple method to retrieve and print out user given data. 
+ *  Author        :  Talia Bahar, Maya Pegler-Gordon, Veronica Backer Peral 
+ *  Date          :  2020-02-4
+ *  Description   :  This program prompts the user for their name, age, class year, major, minor, 
+ *                   and fun fact one at a time using the printf() and gets() functions and then 
+ *                   prints the results on a new line.
+ * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 #include <stdio.h>
 #include <stdlib.h>
 
