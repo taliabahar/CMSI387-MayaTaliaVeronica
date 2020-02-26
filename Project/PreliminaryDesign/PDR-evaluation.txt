@@ -1,0 +1,21 @@
+Veronica, Talia, and Maya
+
+CMSI 387 Operating Systems
+   Semester Project
+===================================
+
+"qotd" would be a wonderful project!  Your plan to implement it
+as a kernel command is a very good use of the idea.
+
+I think a good way to go about this would be to write the utility
+itself first, then figure out how to add it as a command to the
+Linux command list.  Basing it off the fortune program is also a
+good way to get started.  I have written my own version of that
+program in "C" and it is good practice for coding in that language.
+Also, getting the date from the system would be a system call that
+will integrate the new utility with the kernel.
+
+Nice idea!!
+
+Project approved.  Good work and good luck!
+
