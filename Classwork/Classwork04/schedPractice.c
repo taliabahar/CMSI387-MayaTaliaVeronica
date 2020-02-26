@@ -14,17 +14,21 @@ child(void *input)
 {
     char name = ((struct args *)input)->threadName;
     int remaining = ((struct args *)input)->threadDuration;
-    int used;
-    if (remaining > TIMESLICE)
+    int used = 0;
+    while (1)
     {
-        used = TIMESLICE;
+        if (remaining > TIMESLICE)
+        {
+            used = TIMESLICE;
+        }
+        else
+        {
+            used = remaining;
+        }
+        printf("%s : %d : %d", name, used, remaining);
+        remaining = remaining - used;
+        sleep(used);
     }
-    else
-    {
-        used = remaining;
-    }
-    printf("%s : %d : %d", name, used, remaining);
-    remaining = remaining - used;
 }
 int main(int argc, char *argv)
 {
