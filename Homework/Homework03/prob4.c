@@ -3,6 +3,8 @@
 // As soon as an X is found, the program should print a success message and exit.
 // If the entire file is searched without finding an X, the program should report failure.
 // Time your program on files of varying size, some of which have an X at the beginning, while others have an X only at the end or not at all.
+
+//Run using ./a.out test.txt
 #include <unistd.h>
 #include <fcntl.h>
 #include <sys/stat.h>
