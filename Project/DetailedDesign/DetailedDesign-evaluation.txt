@@ -1,0 +1,28 @@
+Veronica, Talia, and Maya
+
+CMSI 387 Operating Systems
+   Semester Project
+===================================
+Very nice job!  Your table in section 2.4 is very complete!  I love
+the project idea and it will be fun to see it work as a kernel module.
+
+Evaluation:
+   2.1   25 out of 25
+   2.2   25 out of 25
+   2.3   25 out of 25
+   2.4   25 out of 25
+
+   total 100 out of 100 which is an A-plus
+
+Keep up the good work, you guys are rockin' this!
+
+Total on project for the semester:
+
+   homework01     100.0%
+   homework02     100.0%
+   project so far 100.0% [20 out of 20]
+
+   participation  Veronica: 100.00% so far
+                  Talia   : 100.00% so far
+                  Maya    : 100.00% so far
+
