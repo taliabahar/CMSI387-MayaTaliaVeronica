@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.asm": "asm-collection",
+        "*.txt ": "java",
+        "string.h": "c"
+    }
+}
