@@ -1,4 +1,4 @@
-# Operating Systems (LMU CMSI 387)-MayaTaliaVeronica
+# Operating Systems (LMU CMSI 387)
 
 Classwork(coded in C), Homework, and Project submissions for CMSI 387 Operating Systems Spring 2020
 
